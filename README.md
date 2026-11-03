@@ -73,19 +73,19 @@ Without proper analysis, it becomes difficult to identify which customers are mo
 
 High-level business performance, customer status distribution, churn rate, retention rate, and revenue analysis.
 
-![Executive Overview](screenshots/Executive%20Overview.png)
+![Executive Overview](https://github.com/Prasanna-21-ringole/Telecom-Customer-Churn-Analysis/raw/de739a2afaa84fd166366b2656615b224a6499bb/Executive%20Overview.png)
 
 ### 2. 👥 Customer Analysis
 
 Customer demographics, age group-wise churn, tenure group-wise churn, and gender-wise churn analysis.
 
-![Customer Analysis](screenshots/Customer%20Analysis.png)
+![Customer Analysis](https://github.com/Prasanna-21-ringole/Telecom-Customer-Churn-Analysis/raw/de739a2afaa84fd166366b2656615b224a6499bb/Customer%20Analysis.png)
 
 ### 3. 💰 Service & Revenue Analysis
 
 Internet service churn, payment method analysis, top churn reasons, and revenue contribution.
 
-![Service & Revenue Analysis](screenshots/SERVICE%20%26%20REVENUE%20ANALYSIS.png)
+![Service & Revenue Analysis](https://github.com/Prasanna-21-ringole/Telecom-Customer-Churn-Analysis/raw/de739a2afaa84fd166366b2656615b224a6499bb/SERVICE%20%26%20REVENUE%20ANALYSIS.png)
 
 ---
 
