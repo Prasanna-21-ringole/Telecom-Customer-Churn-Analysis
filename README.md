@@ -72,21 +72,20 @@ Without proper analysis, it becomes difficult to identify which customers are mo
 ### 1. 📊 Executive Overview
 
 High-level business performance, customer status distribution, churn rate, retention rate, and revenue analysis.
-![Uploading Customer Analysis.png…]()
 
-[🔗 View Executive Overview](D:\Telecom_Customer_Churn_Analysis\screenshots\Customer Analysis)
+![Executive Overview](screenshots/Executive%20Overview.png)
 
 ### 2. 👥 Customer Analysis
 
 Customer demographics, age group-wise churn, tenure group-wise churn, and gender-wise churn analysis.
 
-[🔗 View Customer Analysis](https://chatgpt.com/c/powerbi/screenshots/customer_analysis.png)
+![Customer Analysis](screenshots/Customer%20Analysis.png)
 
 ### 3. 💰 Service & Revenue Analysis
 
 Internet service churn, payment method analysis, top churn reasons, and revenue contribution.
 
-[🔗 View Service & Revenue Analysis](https://chatgpt.com/c/powerbi/screenshots/service_revenue_analysis.png)
+![Service & Revenue Analysis](screenshots/SERVICE%20%26%20REVENUE%20ANALYSIS.png)
 
 ---
 
