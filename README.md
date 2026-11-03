@@ -1,5 +1,3 @@
-i want to add my dashborad screenshots in it how do i di it&#x20;
-
 # 📊 Telecom Customer Churn Analysis Project
 
 ## 📌 Project Overview
