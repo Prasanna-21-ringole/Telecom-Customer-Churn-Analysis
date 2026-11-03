@@ -74,7 +74,7 @@ Without proper analysis, it becomes difficult to identify which customers are mo
 High-level business performance, customer status distribution, churn rate, retention rate, and revenue analysis.
 ![Uploading Customer Analysis.png…]()
 
-[🔗 View Executive Overview](https://chatgpt.com/c/powerbi/screenshots/executive_overview.png)
+[🔗 View Executive Overview](D:\Telecom_Customer_Churn_Analysis\screenshots\Customer Analysis)
 
 ### 2. 👥 Customer Analysis
 
