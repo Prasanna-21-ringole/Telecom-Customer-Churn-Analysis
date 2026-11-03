@@ -65,7 +65,7 @@ Without proper analysis, it becomes difficult to identify which customers are mo
 7. 💰 **Revenue Contribution** — Stayed customers contribute approximately 82.7% of total recorded revenue, amounting to 17.63 million dataset units.
 8. 🏆 **Top Churn Reasons** — Competitor-related reasons dominate: better devices (313 customers) and better offers (311 customers). Support staff attitude is another major reason (220 customers).
 
----
+--
 
 ## 📸 Dashboard Preview
 
