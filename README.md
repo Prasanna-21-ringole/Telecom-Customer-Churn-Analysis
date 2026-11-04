@@ -22,7 +22,7 @@ Without proper analysis, it becomes difficult to identify which customers are mo
 
 ## 📂 Dataset
 
-- 📌 **Source:** Telecom Customer Churn Dataset
+- 📌 **Source:** Telecom Customer Churn Dataset(Maven Analytics)
 - 📊 **Records:** 7,043 rows
 - 📑 **Columns:** 38
 - 👥 **Existing Customers:** 6,589
